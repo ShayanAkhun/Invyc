@@ -1,0 +1,17 @@
+C:\Users\Shayan\source\repos\ModernDesign\ModernDesign\bin\Debug\ModernDesign.exe.config
+C:\Users\Shayan\source\repos\ModernDesign\ModernDesign\bin\Debug\ModernDesign.exe
+C:\Users\Shayan\source\repos\ModernDesign\ModernDesign\bin\Debug\ModernDesign.pdb
+C:\Users\Shayan\source\repos\ModernDesign\ModernDesign\obj\Debug\ModernDesign.csproj.AssemblyReference.cache
+C:\Users\Shayan\source\repos\ModernDesign\ModernDesign\obj\Debug\Theme\MenuButtonTheme.baml
+C:\Users\Shayan\source\repos\ModernDesign\ModernDesign\obj\Debug\MainWindow.g.cs
+C:\Users\Shayan\source\repos\ModernDesign\ModernDesign\obj\Debug\App.g.cs
+C:\Users\Shayan\source\repos\ModernDesign\ModernDesign\obj\Debug\ModernDesign_MarkupCompile.cache
+C:\Users\Shayan\source\repos\ModernDesign\ModernDesign\obj\Debug\ModernDesign_MarkupCompile.lref
+C:\Users\Shayan\source\repos\ModernDesign\ModernDesign\obj\Debug\App.baml
+C:\Users\Shayan\source\repos\ModernDesign\ModernDesign\obj\Debug\MainWindow.baml
+C:\Users\Shayan\source\repos\ModernDesign\ModernDesign\obj\Debug\ModernDesign.g.resources
+C:\Users\Shayan\source\repos\ModernDesign\ModernDesign\obj\Debug\ModernDesign.Properties.Resources.resources
+C:\Users\Shayan\source\repos\ModernDesign\ModernDesign\obj\Debug\ModernDesign.csproj.GenerateResource.cache
+C:\Users\Shayan\source\repos\ModernDesign\ModernDesign\obj\Debug\ModernDesign.csproj.CoreCompileInputs.cache
+C:\Users\Shayan\source\repos\ModernDesign\ModernDesign\obj\Debug\ModernDesign.exe
+C:\Users\Shayan\source\repos\ModernDesign\ModernDesign\obj\Debug\ModernDesign.pdb
