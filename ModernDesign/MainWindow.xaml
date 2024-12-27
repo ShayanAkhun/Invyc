@@ -25,7 +25,7 @@
                 <RowDefinition/>
             </Grid.RowDefinitions>
 
-            <TextBlock Text="Elysian"
+            <TextBlock Text="Invyc"
                        VerticalAlignment="Center"
                        HorizontalAlignment="Left"
                        Margin="20, 0,0,0"
@@ -51,6 +51,13 @@
              Style="{StaticResource MenuButtonTheme}"/>
 
             </StackPanel>
+                <TextBox Width="250"
+                         Height="40"
+                         HorizontalAlignment="Left"
+                          VerticalAlignment="Center"
+                         Margin="5"
+                         Grid.Column="1"/>
+
             
         </Grid>
     </Border>
