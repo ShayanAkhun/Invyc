@@ -15,3 +15,7 @@ C:\Users\Shayan\source\repos\ModernDesign\ModernDesign\obj\Debug\ModernDesign.cs
 C:\Users\Shayan\source\repos\ModernDesign\ModernDesign\obj\Debug\ModernDesign.csproj.CoreCompileInputs.cache
 C:\Users\Shayan\source\repos\ModernDesign\ModernDesign\obj\Debug\ModernDesign.exe
 C:\Users\Shayan\source\repos\ModernDesign\ModernDesign\obj\Debug\ModernDesign.pdb
+C:\Users\Shayan\source\repos\ModernDesign\ModernDesign\obj\Debug\NVVM\View\HomeView.g.cs
+C:\Users\Shayan\source\repos\ModernDesign\ModernDesign\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Shayan\source\repos\ModernDesign\ModernDesign\obj\Debug\Theme\TextBoxTheme.baml
+C:\Users\Shayan\source\repos\ModernDesign\ModernDesign\obj\Debug\NVVM\View\HomeView.baml
