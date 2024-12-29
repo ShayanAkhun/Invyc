@@ -19,3 +19,5 @@ C:\Users\Shayan\source\repos\ModernDesign\ModernDesign\obj\Debug\NVVM\View\HomeV
 C:\Users\Shayan\source\repos\ModernDesign\ModernDesign\obj\Debug\GeneratedInternalTypeHelper.g.cs
 C:\Users\Shayan\source\repos\ModernDesign\ModernDesign\obj\Debug\Theme\TextBoxTheme.baml
 C:\Users\Shayan\source\repos\ModernDesign\ModernDesign\obj\Debug\NVVM\View\HomeView.baml
+C:\Users\Shayan\source\repos\ModernDesign\ModernDesign\obj\Debug\NVVM\View\DiscoveryView.g.cs
+C:\Users\Shayan\source\repos\ModernDesign\ModernDesign\obj\Debug\NVVM\View\DiscoveryView.baml
